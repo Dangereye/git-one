@@ -1,2 +1,3 @@
 # git-one
-Learning git..
+
+Learning Git..
